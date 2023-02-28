@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966">
 
 
-# 🤝 Let's Connect
+# 🤝 Let's Connect.
 <p align="left">
 <a href="https://www.linkedin.com/in/anum-mustafa-36218822a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-haris-dev" height="40" width="50" /></a><a href="https://twitter.com/MHaris_Dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mharis_dev" height="40" width="50" /></a><a href="https://www.instagram.com/mharis_dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="h_4.haris_" height="40" width="50" /></a><a href="https://www.instagram.com/mharis_dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="h_4.haris_" height="40" width="50" /></a><a href="https://muhammadharis.hashnode.dev/" target="blank"><img align="center" src="hashnode.svg" alt="muhammadharis" height=40" width="50" /></a>
 </p>
