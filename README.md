@@ -1,5 +1,8 @@
-[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAAntiBle8bfZPSeXn-muPX9DxUuFrAn9EaciTo-wxIh2MkfZCf6bCtbaU2uSWnrOUxQTVXxl7sOEpgiykTN6b_lGqvTFvSyd7QUqCz4TRkVveJFe5qkyQGUvuz-SpEuat7bLTCV3S6ZUeOzYIxJf9ZC-td_BXivP5YLVZvKE8DSvBEwaT8f5TDGvgvA/s16000/Anum.png)](https://rishavchanda.io)
-<img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/MuhammadShakir-dev/MuhammadShakir-dev/main/borderseperator.gif">
+<center>
+  <h1> Hi I'm Anum Mustafa </h1>
+</center>
+
+> I'm a Game Developer and Graphic Designer. A part from that I'm a a part of community of Google Which is Google Developer Student Club's.
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966">
 
