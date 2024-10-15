@@ -2,7 +2,7 @@
   <h1> Hi I'm Anum Mustafa </h1>
 </center>
 
-> I'm a Frontend Developer and Graphic Designer. A part from that I'm a a part of community of Google Which is Google Developer Student Club's.
+>I am an Odoo Developer and Graphic Designer. I am actively involved in the Google Developer Student Club, a global community of developers, and the Zindigi Prize, an initiative by JS Bank aimed at fostering innovation and entrepreneurship.
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966">
 
@@ -17,10 +17,8 @@
 ![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=#5DADE2)
 
 
-## 👉 Front End-Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+## 👉 Odoo Development
+![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=#5DADE2)
 
 
 ## 👉 Designing Tools
